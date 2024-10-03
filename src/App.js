@@ -5,9 +5,9 @@ import { AllROutes } from './routes/AllROutes'
 
 function App() {
   return (
-    <div>
+    <div >
       <Header />
-     <AllROutes />
+      <AllROutes />
       <Footer />
     </div>
   )
